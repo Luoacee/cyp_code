@@ -1,0 +1,2 @@
+class_dim,hidden_dim,input_dim,lr,model_dim,vocab_size
+256,512,200,0.0005,512,70
