@@ -1,2 +1,0 @@
-clf_nums,d_model,dff,dropout_rate,lr,num_heads,num_layers,pt_epoch,reg_nums,vocab_size
-1,300,1200,0.1,0.0001,6,6,100,0,70
